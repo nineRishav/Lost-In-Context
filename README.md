@@ -1,7 +1,7 @@
 # Lost in Context: The Influence of Context on Feature Attribution Methods for Object Recognition  
 **Accepted at ICVGIP 2024**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2108.00946-b31b1b.svg)](https://arxiv.org/abs/2202.05822s)
+[![arXiv]( https://img.shields.io/badge/arXiv-2108.00946-b31b1b.svg)](https://www.google.com)
 
 
 ## Overview
@@ -57,11 +57,6 @@ Contextual elements can heavily bias feature attribution methods, leading to unr
 If you make use of our work, please cite our paper:
 
 ```
-@inproceedings{adhikari2024lostincontext,
-  title={Lost in Context: The Influence of Context on Feature Attribution Methods for Object Recognition},
-  author={Adhikari, Sayanta and Kumar, Rishav and Mopuri, KR and Rajalakshmi, P},
-  booktitle={Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)},
-  year={2024}
-}
+    Coming Soon
 
 ```
