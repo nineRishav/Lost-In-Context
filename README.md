@@ -16,6 +16,10 @@ This repository contains the code and supplementary materials for our paper *"Lo
 Contextual elements can heavily bias feature attribution methods, leading to unreliable interpretations and reducing the trustworthiness of AI systems. We present a comprehensive analysis of how these biases manifest and offer guidance for developing more robust and context-aware explainability frameworks.
 
 ---
+## Poster 
+
+
+![Project Illustration](assets/30_Adhikari_Lost_in_Context_page-0001.jpg)
 
 ## 📂 Contents
 
